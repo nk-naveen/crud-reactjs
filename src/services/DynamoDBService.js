@@ -8,8 +8,8 @@ import AWS from 'aws-sdk';
 
 AWS.config.update({
     region: 'us-east-1',
-    accessKeyId: 'AKIA6IJ7WPCGO6QWVZO2',
-    secretAccessKey: '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',
+    accessKeyId: 'AKIAT5TZ6E4MWHN7ZA72',
+    secretAccessKey: '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',
   });
 
 
